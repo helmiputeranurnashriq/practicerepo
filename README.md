@@ -2,6 +2,7 @@
 
 **Author:** Helmi Putera Nurnashriq Bin Aziz
 
+
 Here is a simple note about Markdown Document (.md)
 
 #### Topic: Design Heading
@@ -40,8 +41,7 @@ Indented Items
 
 Format: 
 /[Link Text](relative URL)
-Example:
-/[Example 1](/layout.html)
-[Example 1](/layout.html)
-[Example 2](#web-development-practices)
+Example:'
+[Example 1](/layout.html)'
+[Example 2](#web-development-practices)'
 
