@@ -36,5 +36,11 @@ Indented Items
     - Item 2
         - item 3
 
+#### Topic: Adding link
+
+Format: 
+/[Link Text](relative URL)
+Example:
+/[Example 1](/layout.html)
 [Example 1](/layout.html)
 
