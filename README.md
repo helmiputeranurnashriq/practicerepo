@@ -43,4 +43,5 @@ Format:
 Example:
 /[Example 1](/layout.html)
 [Example 1](/layout.html)
+[Example 2](#web-development-practices)
 
