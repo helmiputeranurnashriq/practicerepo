@@ -36,7 +36,5 @@ Indented Items
     - Item 2
         - item 3
 
-<a href:"#testparagraph">Test</a>
-
-<p id = "testparagraph">
+[Example 1](/layout.html)
 
